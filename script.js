@@ -1,7 +1,7 @@
 $(document).ready(function(){
-  $(".twitch").hide()
-  $(".skillz").hide()
-  $("#projects").hide()
+//   $(".twitch").hide()
+//   $(".skillz").hide()
+//   $("#projects").hide()
   $('.jobes').hide()
   $(".about").click(function(){
     $("#projects").hide()
